@@ -1,0 +1,38 @@
+.logo {
+    margin-left: 20px;
+    padding: 2px;
+    background-color: red;
+    border-radius: 3px;
+}
+
+.sidebar {
+    background-color: coral;
+    margin-right: 20px;
+}
+
+.player {
+    width: fit-content;
+    padding-left: 50px;
+    padding-top: 50px;
+    flex: 1;
+}
+
+.thumb {
+    width: 168px;
+}
+
+.nail {
+    flex: 1;
+}
+
+.info {
+    margin-right: 2px;
+}
+
+.flex-container {
+    display: flex;
+}
+
+.card {
+    display: flex;
+}
